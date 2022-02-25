@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  title: MyString
+  creationdate: 2022-02-20
+  qualification: 1
+  genre: one
+
+two:
+  image: MyString
+  title: MyString
+  creationdate: 2022-02-20
+  qualification: 1
+  genre: two
